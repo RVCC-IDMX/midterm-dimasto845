@@ -1,0 +1,46 @@
+/* Journey to the Center of the Earth Practicum*/
+/* Dmitriy Stomma*/
+body {
+    background-color: lightgrey;
+}
+
+header {
+    color: white;
+    background-image: url(../img/cave.jpg) ;
+    height: 100px;
+    text-align: center;
+    padding:20px;
+}
+
+#cover {
+width: 150px;
+height: 50%;
+float: left;
+padding: 10px;
+}
+
+
+#cryptogram {
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:auto;
+    font-family: Roboto; 
+    
+}    
+    
+footer {
+    border: 2px solid gray;
+    text-align:center;
+    
+}
+
+nav {
+    background-color: lightgray;
+    height: 50px;
+    text-align: center;
+    border: 2px solid gray;
+    
+    
+}
